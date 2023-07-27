@@ -19,8 +19,8 @@ export const Nosotros = () => {
       imgUrl: Alumno,
     },
     {
-        title: "Alumno 3",
-        description: "Descripcion",
+        title: "Diego Veramendi",
+        description: "Estudiante de la carrera de Ing. Informática",
         imgUrl: Alumno,
       },
     {
